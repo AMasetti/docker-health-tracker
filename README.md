@@ -1,6 +1,6 @@
 # Description
 
-Grafana & InfluxDB in Docker containers for body meassurments tracking and analytics. Bsed on these measurments the service calculates the following
+Grafana & InfluxDB in Docker containers for body meassurments tracking and analytics. Based on these measurments the service calculates the following
 
 - BMI
 - Body Density
